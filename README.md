@@ -1,2 +1,1 @@
-# weiwoju
-a mobile app
+# weiwojua mobile app一个用于商业交流的移动端网页
